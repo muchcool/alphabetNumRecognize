@@ -7,10 +7,13 @@
 2 SwiftOCR库，适用于快速识别单行文本，速度比TesseractOCRiOS快得多。集成很方便，但识别手机号的准确性问题很大。换字体识别率就低
 
 
+
 选了第二种
 
 
+
 安装是用了pod安装方式
+
 
 
 NumRecoDemo里面有三种不同方法(在StoryBoard里面切换entry来分别跑以下三种):
