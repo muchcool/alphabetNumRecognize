@@ -1,0 +1,20 @@
+PODS:
+  - GPUImage (0.1.7)
+  - SwiftOCR (1.1):
+    - GPUImage
+
+DEPENDENCIES:
+  - SwiftOCR
+
+SPEC REPOS:
+  trunk:
+    - GPUImage
+    - SwiftOCR
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  SwiftOCR: e1a5c7582f074b54df2b1ad273983088b3cf5d45
+
+PODFILE CHECKSUM: 48bc3ac4c72949b239de4533b8ab36b3a2cd7923
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_NumRecoDemo {
+  umbrella header "Pods-NumRecoDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
